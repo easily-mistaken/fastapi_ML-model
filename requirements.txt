@@ -1,0 +1,6 @@
+fastapi[standard]
+uvicorn[standard]
+pydantic
+pandas
+pickle5
+scikit-learn==1.6.1
